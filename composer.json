@@ -1,0 +1,17 @@
+{
+    "name": "cu/dummy-dep-package",
+    "description": "test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Cu\\DummyDepPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael Kardakov",
+            "email": "michael.kardakov@ecentria.com"
+        }
+    ],
+    "require": {}
+}
